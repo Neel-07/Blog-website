@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](link-to-li
 ## Acknowledgements
 
 - The layout and design of this project were inspired by various blog websites and CSS grid resources.
-- Special thanks to the creators of HTML and CSS for providing the foundation for web development.
+
 
 ---
-Kindly check this readme file, and let me know if any further details might be added.  
+
