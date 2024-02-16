@@ -1,4 +1,4 @@
-# Project Blog Website Frontend Readme
+# Blog Website Project
 
 ## Overview
 
